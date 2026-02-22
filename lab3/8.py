@@ -4,20 +4,14 @@ class Account:
         self.balance = balance
 
     def deposit(self, amount):
+        # Пополнение счета
         self.balance += amount
 
     def withdraw(self, amount):
+        # Снятие денег
         if amount > self.balance:
+            # Если хотим снять больше, чем есть — возвращаем "Ничего"
             return None
+        # Если денег хватает — вычитаем и возвращаем остаток
         self.balance -= amount
         return self.balance
-
-
-b, w = map(int, input().split())
-account = Account("User", b)
-result = account.withdraw(w)
-
-if result is None:
-    print("Insufficient Funds")
-else:
-    print(result)
