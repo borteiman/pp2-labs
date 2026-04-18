@@ -1,3 +1,5 @@
+#проверить подключение к PostgreSQL отдельно от всей остальной программы.
+
 import psycopg2
 from config import load_config
 

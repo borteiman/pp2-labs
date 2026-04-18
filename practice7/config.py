@@ -1,3 +1,6 @@
+#читает database.ini и превращает его содержимое в словарь Python.
+
+
 from configparser import ConfigParser
 
 
