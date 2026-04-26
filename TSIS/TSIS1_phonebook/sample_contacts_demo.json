@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Dana",
+        "email": "dana.updated@gmail.com",
+        "birthday": "2006-05-01",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87001234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "7277778888",
+                "type": "home"
+            },
+            {
+                "phone": "7273334444",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "New Work Lead",
+        "email": "lead@startup.kz",
+        "birthday": "1996-09-15",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87007007070",
+                "type": "mobile"
+            },
+            {
+                "phone": "7279090909",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Family Doctor",
+        "email": "doctor.clinic@gmail.com",
+        "birthday": "",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87005550001",
+                "type": "mobile"
+            },
+            {
+                "phone": "7275050505",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Study Group",
+        "email": "study.group@kbtu.kz",
+        "birthday": "",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87001231231",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Conference Contact",
+        "email": "conference@events.kz",
+        "birthday": "",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "7276060606",
+                "type": "work"
+            },
+            {
+                "phone": "87006006060",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Emergency",
+        "email": "",
+        "birthday": "",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "112",
+                "type": "mobile"
+            },
+            {
+                "phone": "103",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Music School",
+        "email": "music.school@gmail.com",
+        "birthday": "",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "7277070707",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Aruzhan",
+        "email": "aruzhan.new@kbtu.kz",
+        "birthday": "2005-11-12",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87005556677",
+                "type": "mobile"
+            },
+            {
+                "phone": "7272229999",
+                "type": "home"
+            }
+        ]
+    }
+]

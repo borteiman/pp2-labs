@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+/leaderboard.json
+/settings.json
+/saved_images/

@@ -1,0 +1,26 @@
+name,email,birthday,group,phone,type
+Aigerim,aigerim.family@gmail.com,1982-04-18,Family,87011234567,mobile
+Aigerim,aigerim.family@gmail.com,1982-04-18,Family,7272456789,home
+Dias,dias.work@company.com,1998-09-03,Work,87075550101,mobile
+Dias,dias.work@company.com,1998-09-03,Work,7273304545,work
+Dana,dana.kbtu@gmail.com,2006-05-01,Friend,87001234567,mobile
+Dana,dana.kbtu@gmail.com,2006-05-01,Friend,7271234567,home
+Aruzhan,aruzhan@kbtu.kz,2005-11-12,Friend,87005556677,mobile
+Miras,miras.dev@company.com,2004-02-20,Work,87007778899,mobile
+Miras,miras.dev@company.com,2004-02-20,Work,7279091122,work
+Anel,anel.friend@gmail.com,2006-12-25,Friend,87006667788,mobile
+Teacher,teacher@kbtu.kz,,Work,7277654321,work
+Dad,dad.home@example.com,1978-01-09,Family,87014445566,mobile
+Dad,dad.home@example.com,1978-01-09,Family,7272223344,home
+Mom,mom.home@example.com,1980-03-20,Family,87001112233,mobile
+Mom,mom.home@example.com,1980-03-20,Family,7278877665,home
+KBTU Office,office@kbtu.kz,,Work,7272727272,work
+Tennis Coach,coach.tennis@gmail.com,1990-07-14,Other,87003332211,mobile
+Violin Teacher,violin.teacher@gmail.com,1988-10-30,Other,87004445577,mobile
+Art Club,art.club@community.kz,,Other,7274040404,work
+Project Partner,partner.project@company.com,2005-06-06,Work,87009998877,mobile
+Project Partner,partner.project@company.com,2005-06-06,Work,7275551212,work
+Alina,alina.bestfriend@gmail.com,2006-08-16,Friend,87008889900,mobile
+Nursultan,nursultan.ai@kbtu.kz,2005-04-04,Friend,87001110022,mobile
+Grandma,,1956-02-11,Family,87002223344,mobile
+Grandma,,1956-02-11,Family,7271112233,home

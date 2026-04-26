@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ali",
+        "email": "ali@gmail.com",
+        "birthday": "2005-02-14",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87001230000",
+                "type": "mobile"
+            },
+            {
+                "phone": "7270001122",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Office",
+        "email": "office@company.com",
+        "birthday": null,
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "7271112233",
+                "type": "work"
+            }
+        ]
+    }
+]
